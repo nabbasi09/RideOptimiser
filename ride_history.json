@@ -1,0 +1,58 @@
+[
+  {
+    "time": "02:07",
+    "pickup": "Delhi",
+    "dropoff": "Mumbai",
+    "fare": 13418,
+    "driver": "Priya Sharma"
+  },
+  {
+    "time": "02:07",
+    "pickup": "Delhi",
+    "dropoff": "Mumbai",
+    "fare": 13418,
+    "driver": "Neha Patel"
+  },
+  {
+    "time": "02:07",
+    "pickup": "Delhi",
+    "dropoff": "Hyderabad",
+    "fare": 13355,
+    "driver": "Arjun Singh"
+  },
+  {
+    "time": "02:08",
+    "pickup": "Delhi",
+    "dropoff": "Hyderabad",
+    "fare": 13355,
+    "driver": "Arjun Singh"
+  },
+  {
+    "time": "02:08",
+    "pickup": "Delhi",
+    "dropoff": "Hyderabad",
+    "fare": 13355,
+    "driver": "Arjun Singh"
+  },
+  {
+    "time": "13:53",
+    "pickup": "Delhi",
+    "dropoff": "Hyderabad",
+    "fare": 15358,
+    "driver": "Priya Sharma"
+  },
+  {
+    "time": "13:55",
+    "pickup": "Delhi",
+    "dropoff": "Pune",
+    "fare": 17004,
+    "driver": "Neha Patel"
+  },
+  {
+    "time": "13:58",
+    "pickup": "Delhi",
+    "dropoff": "Pune",
+    "fare": 17004,
+    "driver": "Priya Sharma"
+  }
+]
