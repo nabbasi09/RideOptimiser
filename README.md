@@ -14,15 +14,18 @@ It uses advanced pathfinding algorithms like A* and Dijkstra to calculate optima
 ⏱️ ETA & Fare calculation
 📜 Ride history tracking
 ⭐ Driver rating system
+
 🧠 Algorithms Used
 A* Algorithm → for fastest route (time-based)
 Dijkstra Algorithm → for shortest distance
 Priority Queue (Heap) for optimization
+
 🛠️ Technologies Used
 Python
 Tkinter (GUI)
 Data Structures (Graph, Heap, Queue)
 JSON (for storing ride history)
+
 📂 Project Structure
 app.py          # Main application
 graph.py        # Graph data structure
@@ -31,20 +34,27 @@ driver.py       # Driver management
 booking.py      # Booking & queue system
 ui.py           # UI components
 ride_history.json  # Stored ride data
+
+
 ▶️ How to Run
 Install Python (3.x)
 Run the project:
 python app.py
+
+
 📸 Output
 Interactive map of Indian cities
 Route visualization
 Driver movement simulation
+
+
 📈 Applications
 Ride-sharing apps (like Uber/Ola clone concept)
 Route optimization systems
 Traffic-aware navigation systems
-👨‍💻 Author
 
+
+👨‍💻 Author
 Mohd Naved Abbasi
 
 💡 Future Improvements
